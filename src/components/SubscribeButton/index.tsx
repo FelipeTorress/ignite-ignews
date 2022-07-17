@@ -1,6 +1,6 @@
 import styles from './styles.module.scss';
 
-export function SubscribeButton() {
+export function SubscribeButton(props) {
     return(
         <button
             type="button"
